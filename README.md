@@ -17,9 +17,9 @@ The codebase allows training and evaluation for the following classification tas
 * **On ECSU-PCE Public Data:**
     * **Social Perception Classification:** Binary classification based on Perceptual Awareness Scale (PAS) scores (e.g., distinguishing high vs. low perceived presence/empathy).
 
-## This model and all the codes in this repository are designed and developed independently by Haiyang Long. If you refer to or use the code of this study, please mention me in your project.
+## The related paper of this model was published in IEEE Journal of Biomedical and Health Informatics(JBHI), titled EEG-based Spatial-Channel Interaction Attention Neural Networks for Detecting Empathy in Motor Collaboration, which is currently in early access, doi: 10.1109/JBHI.2025.3580617
 
-## The related article of this model was published in IEEE Journal of Biomedical and Health Informatics(JBHI), titled EEG-based Spatial-Channel Interaction Attention Neural Networks for Detecting Empathy in Motor Collaboration, which is currently in early access, doi: 10.1109/JBHI.2025.3580617
+## This model and all the codes in this repository are designed and developed independently by Haiyang Long. If you refer to or use the code of this study, please cite my paper and mention me in your project.
 
 ## Contact
 
