@@ -3,7 +3,7 @@
 This repository provides the PyTorch implementation for EEG-based empathy recognition tasks.
 
 * **SCIANN was tested on the following datasets and achieved SOTA results**:
-1.  A **self-collected dataset** from a two-person collaborative motor imagery experiment.
+1.  A **private dataset** from a two-person collaborative motor imagery experiment.
 2.  The **public ECSU-PCE dataset** focused on social touch interactions.
 
 ## Tasks Supported
