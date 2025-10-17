@@ -19,8 +19,5 @@ The codebase allows training and evaluation for the following classification tas
 
 ## The related paper of this model was published in IEEE Journal of Biomedical and Health Informatics(JBHI), titled EEG-based Spatial-Channel Interaction Attention Neural Networks for Detecting Empathy in Motor Collaboration, which is currently in early access, doi: 10.1109/JBHI.2025.3580617
 
-## This model and all the codes in this repository are designed and developed independently by Haiyang Long. Thanks to co-author Tianyu Jia for the experimental design and data support, which drove the initial conception of this model. If you refer to or use the code of this study, please cite out paper and mention me and Tianyu Jia in your project.
-
 ## Contact
-
 For questions, please use GitHub Issues or contact hp375169@gmail.com.
